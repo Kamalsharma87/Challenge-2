@@ -18,7 +18,7 @@ go run metadata.go
 #pretty print meta-data
 go run metadata.go --prettyprint
 {
-  "ami-id": "ami-aa941e9a",  
+  "ami-id": "ami-aa641e6a",  
   "ami-launch-index": "0",  
   "block-device-mapping": {  
     "ami": "sda1",    
